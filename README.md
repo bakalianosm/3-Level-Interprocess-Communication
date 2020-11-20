@@ -1,4 +1,4 @@
-**NOTE :** *This repo , is a part of the 1st Programming assignment that we had to implement for the course of Operating Systems - Fall 2020.*
+**NOTE :** *This repo , is a part of the 2nd Programming assignment that we had to implement for the course of Operating Systems - Fall 2020.*
 
 
 <p align="center"> 
